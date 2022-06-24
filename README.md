@@ -6,5 +6,5 @@ I am Naimur from Bangladesh, and I'm a Full Stack Developer. I use MERN stack to
 ![Naimur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naimur2)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naimur2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naimur2)
 
